@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Artificial Intelligence/Machine Learning](https://github.com/Fang357/Projects/tree/my-new-branch)
 
-- 🌱 I’m currently learning **Machine Learning, React**
+- 🌱 I’m currently learning **Machine Learning, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fang357/Projects.git](https://github.com/Fang357/Projects.git)
 
