@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreejit</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Tech Guy from India</h3>
 
-- 🔭 I’m currently working on [Artificial Intelligence/Machine Learning](https://github.com/Fang357/Projects/tree/my-new-branch)
+- 🔭 I’m currently working as [Solution Analyst with a passion for AI](https://github.com/Fang357/Projects/tree/my-new-branch)
 
-- 🌱 I’m currently learning **Machine Learning, NLP**
+- 🌱 I’m currently learning **AI, Machine Learning, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fang357/Projects.git](https://github.com/Fang357/Projects.git)
 
